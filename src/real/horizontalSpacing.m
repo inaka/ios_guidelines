@@ -74,12 +74,12 @@ CGFloat timeSpent = 21.0f  ;
 /* In method calls, do not leave spaces between squared brackets and what they enclose. Do not leave spaces between colons and arguments either. */
 
 // The Good
-[dictionary setObject:fruits forKey:@"fruits"];
+[userDefaults setObject:fruits forKey:@"fruits"];
 
 // The Bad
-[ dictionary setObject:fruits forKey:@"fruits" ];
-[dictionary setObject: fruits forKey: @"fruits"];
-[ dictionary setObject: fruits forKey: @"fruits" ];
+[ userDefaults setObject:fruits forKey:@"fruits" ];
+[userDefaults setObject: fruits forKey: @"fruits"];
+[ userDefaults setObject: fruits forKey: @"fruits" ];
 
 
 

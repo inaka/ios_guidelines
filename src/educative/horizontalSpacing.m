@@ -74,12 +74,12 @@ CGFloat lostFloat = 21.0f  ;
 /* In method calls, do not leave spaces between squared brackets and what they enclose. Do not leave spaces between colons and arguments either. */
 
 // The Good
-[dictionary setObject:good forKey:@"readability"];
+[userDefaults setObject:good forKey:@"readability"];
 
 // The Bad
-[ dictionary setObject:notGood forKey:@"readability" ];
-[dictionary setObject: horrible forKey: @"readabilty"];
-[ dictionary setObject: @(YES) forKey: @"hurtingEyes" ];
+[ userDefaults setObject:notGood forKey:@"readability" ];
+[userDefaults setObject: horrible forKey: @"readabilty"];
+[ userDefaults setObject: @(YES) forKey: @"hurtingEyes" ];
 
 
 
