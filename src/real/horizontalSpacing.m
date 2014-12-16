@@ -50,7 +50,7 @@ if (count < 10) {
 }
 
 // The Bad
-if(count<10){
+if(count < 10){
     
 }
 

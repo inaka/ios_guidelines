@@ -13,7 +13,7 @@
 @interface MPMovie : NSObject
 
 // MPMovieDetailViewController.h
-@interface MPMovieDetailViewController : NSObject
+@interface MPMovieDetailViewController : UIViewController
 
 
 
@@ -25,4 +25,4 @@
 @interface Movie : NSObject
 
 // MovieDetailViewController.h
-@interface MovieDetailViewController : NSObject
+@interface MovieDetailViewController : UIViewController
