@@ -4,7 +4,7 @@ NSArray *names = @[@"Tom", @"Sebas", @"Andres", @"Gera", @"Pablo"];
 
 NSDictionary *company = @{
                           @"name": @"Inaka",
-                          @"slogan": @"it's inaka!",
+                          @"slogan": @"it's inaka!"
                           };
 
 NSNumber *shouldUseLiterals = @YES;

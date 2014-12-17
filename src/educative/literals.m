@@ -4,7 +4,7 @@ NSArray *lessonOfTheDay = @[@"Using", @"literals", @"makes", @"code", @"easier",
 
 NSDictionary *someDictionary = @{
                                  @"nice": @(YES),
-                                 @"easyToFindKey": @"easyToFindValue",
+                                 @"easyToFindKey": @"easyToFindValue"
                                  };
 
 NSNumber *shouldUseLiterals = @YES;
