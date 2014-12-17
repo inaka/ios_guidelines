@@ -20,7 +20,7 @@ And you can check all of our open-source projects at [inaka.github.io](http://in
 
 #### Suggested reading material
 * [Cocoa Guidelines](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
-* [Clean Code - A handbook of Agile Software Craftmanship, by Robert C. Martin](https://www.ufm.edu/images/0/04/Clean_Code.pdf)
+* [Clean Code - A Handbook of Agile Software Craftmanship, by Robert C. Martin](https://www.ufm.edu/images/0/04/Clean_Code.pdf)
 
 ***
 
