@@ -1,4 +1,4 @@
-### From [Objective-C Coding Standards & Guidelines](README.md)
+### From [Objective-C Coding Standards & Guidelines](https://github.com/inaka/ios_guidelines)
 
 Contact Us
 ==========
