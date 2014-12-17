@@ -1,6 +1,6 @@
 ### From [Objective-C Coding Standards & Guidelines](https://github.com/inaka/ios_guidelines)
 
-Suggestions & Rules
+Conventions & Rules
 ===================
 
 Things that may be used as reason to reject a Pull Request.
@@ -145,7 +145,7 @@ Table of Contents:
 ##### BOOL values
 > Never use true/false or 1/0. Boolean values in Objective-C are referred as to YES/NO instead.
 
-*Examples*: [educative](src/educative/booleans.m) | [real](src/real/booleans.m)
+*Examples*: [educative](src/educative/booleans.m)
 
 *Reasoning*: Given the verbosity of the language, using YES/NO makes the code more readable than using true/false.
 
