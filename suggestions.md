@@ -134,7 +134,7 @@ You can compare it against this real life example: *How do you prefer your tools
 ##### Avoid singleton abuse
 > When there is no need to keep global state, then don't keep it.
 
-*Reasoning*: Given the way Apple's frameworks have been architectured, Objective-C developers are quite used to apply the singleton pattern everywhere. It should be known (and considered) that having global state in code means evil, and that it's a thing that should be discouraged from being done. This article explains why: http://www.objc.io/issue-13/singletons.html.
+*Reasoning*: Given the way Apple's frameworks have been architectured, Objective-C developers are quite used to apply the singleton pattern everywhere. It should be known (and considered) that having global state in code means evil, and that it's a thing that should be discouraged from being done. [This article](http://www.objc.io/issue-13/singletons.html) explains why.
 
 ***
 
