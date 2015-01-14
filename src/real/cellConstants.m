@@ -7,8 +7,8 @@ extern NSString *const FLAppleCellIdentifier;
 
 
 // FLAppleCell.m
-extern CGFloat const FLAppleCellHeight = 52.0f;
-extern NSString *const FLAppleCellIdentifier = @"AppleCell";
+CGFloat const FLAppleCellHeight = 52.0f;
+NSString *const FLAppleCellIdentifier = @"AppleCell";
 
 
 // FLAppleListingViewController.m

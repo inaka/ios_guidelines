@@ -7,8 +7,8 @@ extern NSString *const SomeCellIdentifier;
 
 
 // SomeCell.m
-extern CGFloat const SomeCellHeight = 100.0f;
-extern NSString *const SomeCellIdentifier = @"CellIdentifier";
+CGFloat const SomeCellHeight = 100.0f;
+NSString *const SomeCellIdentifier = @"CellIdentifier";
 
 
 // SomeViewController.m
