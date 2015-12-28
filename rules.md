@@ -187,7 +187,7 @@ On the other hand, Apple discourages using accessors in init or dealloc, because
 ***
 
 ##### Explicit atomicity
-> Properties atomicity must be always specified explicitely. Prefer nonatomic as the default.
+> Properties atomicity must be always specified explicitly. Prefer nonatomic as the default.
  
 *Examples*: [educative](src/educative/atomicity.m) | [real](src/real/atomicity.m)
 
