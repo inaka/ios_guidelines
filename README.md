@@ -1,6 +1,11 @@
 Objective-C Coding Standards & Guidelines
 =========================================
 
+⚠️ We are moving to Swift for new projects.
+This Objective-C guidelines repository is no longer maintained.
+See our [Swift Coding Guidelines](https://github.com/inaka/swift_guidelines/) for current reference.
+
+
 #### Table of Contents:
 * [Conventions & Rules](rules.md) 
   * *Things that may be used as reason to reject a Pull Request.*
